@@ -1,0 +1,5 @@
+argparse
+numpy
+Pillow
+tensorflow
+tensorflow_hub

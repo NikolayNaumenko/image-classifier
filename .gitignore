@@ -1,0 +1,6 @@
+.Ds_Store
+.idea
+venv
+src/__pycache__
+test_images
+*.h5
